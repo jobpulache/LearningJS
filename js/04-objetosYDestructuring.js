@@ -18,6 +18,5 @@
 // const edad = 18
 // const infoPerso ={
 //     nombre,
-//     edad
-// }
+//     edad// }
 // console.log(infoPerso)
