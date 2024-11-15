@@ -3,4 +3,5 @@
 let nombre = "Job"
 let edad = 18
 
+//Sintaxis de templates literals
 console.log(`Hola ${nombre}, tu edad es ${edad}`)
